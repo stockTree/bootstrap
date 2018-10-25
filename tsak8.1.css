@@ -551,21 +551,21 @@ border-bottom: 1px solid white;
  
 
  @media screen and (min-width:768px) and (max-width:1200px){
-     .footer-right{
+     /* .footer-right{
             position: static;
             padding-top: 55px;
-        }
+        } */
         .list10,
         .list11,
-        .text8{
+        /* .text8 */
+        {
            height: 40px;
            line-height: 40px; 
         }
-        .pic4{
+        /* .pic4{
             margin-top:23px;
             height: 94px;
-
-        }
+        } */
         .big-navbar{
              display: none;
          }
